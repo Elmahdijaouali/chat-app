@@ -33,7 +33,7 @@ Make sure you have the following installed:
 -   [Composer](https://getcomposer.org/)
 -   [Node.js and npm](https://nodejs.org/)
 -   [Laravel](https://laravel.com/docs/10.x) installed globally (optional)
--   [Redis](https://redis.io/) (for broadcasting with Laravel Echo)
+-   broadcasting with Laravel Echo
 -   [Pusher](https://pusher.com/) (for WebSocket broadcasting)
 
 ### Step 1: Clone the Repository
