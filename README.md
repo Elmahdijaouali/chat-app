@@ -2,7 +2,7 @@
 
 DimaChat is a real-time chat application built with Laravel, Laravel Breeze, Inertia.js, React, Tailwind CSS, Laravel Echo, and Pusher. This application allows users to send and receive messages instantly, making it a perfect solution for real-time communication.
 
-[image](./public/assests/img_hero.png)
+[image](public/assests/img_hero.png)
 ## Features
 
 -   **Real-time messaging**: Thanks to Laravel Echo and Pusher, the app supports real-time communication between users.
@@ -11,7 +11,7 @@ DimaChat is a real-time chat application built with Laravel, Laravel Breeze, Ine
 -   **Beautiful UI**: Tailwind CSS is used for building a responsive and modern UI with minimal effort.
 -   **Secure**: The app uses Laravel's built-in authentication features and broadcasts events securely with Laravel Echo.
 
-[image](./public/assests/img_messages_encryption.png)
+[image](public/assests/img_messages_encryption.png)
 
 ## Tech Stack
 
